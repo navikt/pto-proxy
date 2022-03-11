@@ -33,6 +33,8 @@ spec:
   accessPolicy:
       inbound:
         rules:
+          - application: poa-arbeidssokerregistrering
+            namespace: paw
           - application: veientilarbeid
             namespace: paw
           - application: arbeidssokerregistrering
