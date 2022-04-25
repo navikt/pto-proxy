@@ -51,6 +51,8 @@ spec:
             namespace: flex
           - application: dp-soknad-veileder
             namespace: teamdagpenger
+          - application: dp-dagpenger
+            namespace: teamdagpenger
       external:
         - host: api-gw.oera.no
   envFrom:
