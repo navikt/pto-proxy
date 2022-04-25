@@ -49,6 +49,8 @@ spec:
           - application: start-samtale
           - application: flex-gateway
             namespace: flex
+          - application: dp-soknad-veileder
+            namespace: teamdagpenger
       external:
         - host: api-gw-q1.oera.no
   envFrom:
