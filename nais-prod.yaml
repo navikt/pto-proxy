@@ -47,8 +47,6 @@ spec:
           - application: aktivitetsplan
           - application: arbeidsrettet-dialog
           - application: start-samtale
-          - application: flex-gateway
-            namespace: flex
           - application: dp-soknad-veileder
             namespace: teamdagpenger
           - application: dp-dagpenger
