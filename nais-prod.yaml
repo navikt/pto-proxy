@@ -39,8 +39,6 @@ spec:
             namespace: paw
           - application: arbeidssokerregistrering
             namespace: paw
-          - application: veilarbregistrering
-            namespace: paw
           - application: veiviserarbeidssoker
             namespace: paw
           - application: behovsvurdering

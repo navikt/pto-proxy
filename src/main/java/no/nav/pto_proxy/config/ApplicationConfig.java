@@ -22,7 +22,6 @@ public class ApplicationConfig {
             "veilarblest",
             "veilarboppfolging",
             "veilarbperson",
-            "veilarbregistrering",
             "veilarbvedtakinfo",
             "frontendlogger"
     );
